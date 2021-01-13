@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Felipe, a Software Engineer under construction, in love by new technologies and good practices of software engineering.
+### I'm Felipe, a Software Engineer in love by new technologies and good practices of software engineering.
 
 - 🔭 I'm currently working as Senior Java Developer at NTConsult, allocated at Globo.com, in the Globoplay sales team.
 - 📫 How to reach me:
