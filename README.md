@@ -2,7 +2,7 @@
 
 ### I'm Felipe, a Software Engineer in love by new technologies and good practices of software engineering.
 
-- 🔭 I'm currently working as Senior Java Developer at NTConsult, allocated at Globo.com, in the Globoplay sales team.
+- 🔭 I'm currently working as Tech Lead at NTConsult, allocated at Globo.com, in the Globo sales team.
 - 📫 How to reach me:
 
     [![Linkedin](https://badgen.net/badge/LinkedIn/fgmachado?icon=linkedin)](https://www.linkedin.com/in/felipe-gomes-machado-16b8bb37/)
